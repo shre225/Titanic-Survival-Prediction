@@ -46,6 +46,3 @@ titanic-survival-prediction/
 ## 🚀 Future Improvements
 - Hyperparameter tuning
 - Improved feature engineering
-- Web application deployment
-- Scikit-learn
-- Pickle
